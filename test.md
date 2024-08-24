@@ -1,3 +1,8 @@
+---
+layout: default-and-toc
+title:  "test"
+---
+
 # H1 test
 
 ## H2 test
